@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+header {
+  text-align: center;
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  color: #3aafa9;
+}
